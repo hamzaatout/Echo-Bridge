@@ -123,7 +123,3 @@ Accessibility tools for individuals with disabilities are often scarce and expen
 1. Graves, A., et al. "Connectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks." Proceedings of the 23rd International Conference on Machine Learning. 2006.
 2. Li, D., et al. "Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020.
 3. Rakhmatov, D., and Breccia, A. "Real-time sign language recognition with convolutional neural networks." 2024.
-
----
-
-This README provides a comprehensive overview of the Echo-Bridge project, facilitating easy replication and future contributions.
